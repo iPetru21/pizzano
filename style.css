@@ -1,0 +1,250 @@
+/*!
+Theme Name: PizzaHouse
+Theme URI: http://xplication.com/
+Author: Iftodi Petru
+Author URI: http://xplication.com/
+Description: Description
+Version: 1.0.0
+Tested up to: 5.4
+Requires PHP: 5.6
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: pizzahouse
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+
+PizzaHouse is based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Generic
+	- Normalize
+	- Box sizing
+
+
+/* Woocommerce rating stars */
+/*star rating for content products*/
+.rating-custom div.product .woocommerce-product-rating {
+    margin-bottom: 1.618em;
+}
+
+.rating-custom .woocommerce-product-rating .star-rating {
+    margin: .5em 4px 0 0;
+    float: left;
+}
+
+.rating-custom .woocommerce-product-rating::after, .rating-custom .woocommerce-product-rating::before {
+
+    content: ' ';
+    display: table;
+
+}
+
+.rating-custom .woocommerce-product-rating {
+    line-height: 2;
+}
+
+.rating-custom .star-rating {
+    float: left;
+    overflow: hidden;
+    position: relative;
+    height: 1em;
+    line-height: 1;
+    font-size: 0.7em;
+    width: 90px;
+    font-family: 'Font Awesome 6 Free';
+    margin-bottom: 15px
+}
+
+.rating-custom .star-rating::before {
+    content: '\f005\f005\f005\f005\f005';
+    color: #d3ced2;
+    float: left;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.rating-custom .star-rating {
+    line-height: 1.2em;
+    font-size: 0.7em;
+    font-family: 'Font Awesome 6 Free';
+    height: 13px;
+    letter-spacing: 0.5em;
+}
+
+.rating-custom .star-rating span {
+    overflow: hidden;
+    float: left;
+    top: 0;
+    left: 0;
+    position: absolute;
+    padding-top: 1.5em;
+}
+
+.rating-custom .star-rating span::before {
+    content: '\f005\f005\f005\f005\f005';
+    top: 0;
+    position: absolute;
+    left: 0;
+}
+
+.rating-custom .star-rating span {
+
+    overflow: hidden;
+    float: left;
+    top: 0;
+    left: 0;
+    position: absolute;
+    padding-top: 1.5em;
+
+}
+
+del bdi{
+    color:rgba(21, 21, 21, 0.5)
+}
+
+.rating-custom.product-rating {
+    height: 18px;
+}
+
+/*star rating for single products*/
+
+.single-product-rating .star-rating {
+    height: 20px;
+    margin-bottom: 0px;
+    width: 130px;
+}
+
+.single-product-price ins {
+    text-decoration: none;
+}
+
+.services-terri-icon::before {
+    font-size: 42px;
+    top: 50%;
+    line-height: 83px;
+}
+
+h6.product-title {
+    display: inline-block;
+    width: 100%;
+}
+
+.footer-social-list-3 .icon {
+    position: relative;
+}
+
+.mdi-arrow-up:before {
+    font-size: 40px;
+    line-height: 60px;
+}
+/* star rating for comment rating */
+.box-rating .rating-custom .star-rating {
+    font-size: 13px;
+    width: 96px;
+}
+
+.product-top-panel.group-md{
+    margin-top: 0;
+}
+
+.fa-openid::before {
+    content: '\e07b'!important;
+}
+
+.fa-pagelines::before {
+    content: '\f262'!important;
+}
+
+/* WOOCOMMERCE */
+
+.woocommerce-notices-wrapper {
+    text-align: left;
+    margin-top: 15px;
+}
+
+.ajax_add_to_cart.loading {
+    color: transparent!important;
+}
+
+#woocommerce-cart-items-count {
+    display: none;
+}
+
+.woocommerce-shipping-methods li {
+    display: flex;
+    justify-content: space-between;
+    display: flex;
+}
+
+.woocommerce-order-details {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 25px;
+}
+
+.woocommerce-order-details-block section {
+    margin: 60px;
+}
+
+.woocommerce-order-details h2 {
+    align-self: flex-start;
+}
+
+.table-custom.order_details {
+    max-width: max-content!important;
+}
+
+.thankyou-logo {
+    max-width: 150px;
+}
+
+.woocommerce-order-details-block {
+    display: flex;
+    justify-content: center;
+}
+
+.woocommerce-order {
+    padding-top: 30px;
+}
+
+table.variations tr {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.stepper {
+    width: fit-content;
+}
+
+.tab-content h2 {
+    font-size: 32px;
+}
+
+.reset_variations {
+    margin-left: 15px;
+}
+
+.woocommerce-order {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.woocommerce-order *{
+    flex: 1 1 auto;
+    min-width: 30%;
+    align-self: center;
+}
