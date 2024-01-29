@@ -1,0 +1,748 @@
+# Copyright (C) 2020 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/_s\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-11-02 09:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: _s\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#: 404.php:17
+msgid "404"
+msgstr ""
+
+#: inc/redux-config.php:739
+msgid "[ example ]"
+msgstr ""
+
+#: inc/redux-config.php:969
+msgid "About its role in the team"
+msgstr ""
+
+#. Name of the template
+msgid "About Page"
+msgstr ""
+
+#: inc/redux-config.php:811
+msgid "About Us"
+msgstr ""
+
+#: inc/redux-config.php:937
+msgid "About us."
+msgstr ""
+
+#: functions.php:129
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/woocommerce-functions.php:467
+msgid "Added!"
+msgstr ""
+
+#: inc/woocommerce-functions.php:213
+msgid "Aditional Information"
+msgstr ""
+
+#: inc/redux-config.php:749
+msgid "Advantages"
+msgstr ""
+
+#: inc/redux-config.php:555
+msgid "Author"
+msgstr ""
+
+#: inc/redux-config.php:558
+msgid "Author' full name"
+msgstr ""
+
+#: inc/redux-config.php:531 inc/redux-config.php:596
+msgid "Background image"
+msgstr ""
+
+#: inc/redux-config.php:523
+msgid "Banner"
+msgstr ""
+
+#: inc/redux-config.php:588
+msgid "Banner 2"
+msgstr ""
+
+#: inc/redux-config.php:413
+msgid "Basic media uploader with disabled URL input field."
+msgstr ""
+
+#: inc/redux-config.php:727
+msgid "Booking contact form"
+msgstr ""
+
+#: inc/redux-config.php:577 inc/redux-config.php:631
+msgid "Button link"
+msgstr ""
+
+#: inc/redux-config.php:566 inc/redux-config.php:620
+msgid "Button text"
+msgstr ""
+
+#: header.php:119
+msgid "Cart"
+msgstr ""
+
+#: inc/widgets.php:108
+msgid "Category"
+msgstr ""
+
+#: inc/redux-config.php:1119 inc/redux-config.php:1120
+msgid "Client Name"
+msgstr ""
+
+#: inc/redux-config.php:1131 inc/redux-config.php:1132
+msgid "Client Opinion"
+msgstr ""
+
+#: inc/redux-config.php:1137 inc/redux-config.php:1138
+msgid "Client Photo"
+msgstr ""
+
+#: inc/redux-config.php:1125 inc/redux-config.php:1126
+msgid "Client Role"
+msgstr ""
+
+#: inc/woocommerce-functions.php:210
+msgid "Comments"
+msgstr ""
+
+#: inc/redux-config.php:720
+msgid "Contact Form"
+msgstr ""
+
+#: inc/redux-config.php:361
+msgid "Contact Number"
+msgstr ""
+
+#. Name of the template
+msgid "Contact Page"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:40
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/redux-config.php:447
+msgid "Copyrigth"
+msgstr ""
+
+#: inc/redux-config.php:1448
+msgid "Customizer Only"
+msgstr ""
+
+#: inc/redux-config.php:1455
+msgid "Customizer Only Option"
+msgstr ""
+
+#: 404.php:18
+msgid "Către pagina principală"
+msgstr ""
+
+#. Description of the theme
+#: inc/redux-config.php:548 inc/redux-config.php:613 inc/redux-config.php:1077
+msgid "Description"
+msgstr ""
+
+#: inc/redux-config.php:489 inc/redux-config.php:512 inc/redux-config.php:541
+#: inc/redux-config.php:559 inc/redux-config.php:570 inc/redux-config.php:606
+#: inc/redux-config.php:624
+msgid "Description Here"
+msgstr ""
+
+#: inc/redux-config.php:1076
+msgid "Description History"
+msgstr ""
+
+#. Panel opt_name.
+#: inc/redux-config.php:273
+#, php-format
+msgid ""
+"Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"$%1$s"
+msgstr ""
+
+#: inc/redux-config.php:225 inc/redux-config.php:1430
+msgid "Documentation"
+msgstr ""
+
+#: template-contact.php:37
+msgid "E-mail"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:36 inc/template-tags.php:100
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/redux-config.php:373
+msgid "Email Address"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:64
+msgid "Expediați la o altă adresă?"
+msgstr ""
+
+#: inc/redux-config.php:237
+msgid "Extensions"
+msgstr ""
+
+#: inc/redux-config.php:781
+msgid "fa-icon"
+msgstr ""
+
+#: inc/redux-config.php:986
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/redux-config.php:363 inc/redux-config.php:375 inc/redux-config.php:387
+msgid "Field Description"
+msgstr ""
+
+#: inc/widgets.php:204
+msgid "Filter"
+msgstr ""
+
+#: inc/widgets.php:229
+msgid "Filter by Price"
+msgstr ""
+
+#: inc/redux-config.php:484
+msgid "First page slider"
+msgstr ""
+
+#: inc/redux-config.php:401
+msgid "Footer"
+msgstr ""
+
+#: inc/redux-config.php:438
+msgid "Footer menu headings."
+msgstr ""
+
+#: functions.php:53
+msgid "Footer Primary"
+msgstr ""
+
+#: functions.php:54
+msgid "Footer Secondary"
+msgstr ""
+
+#: inc/redux-config.php:353 inc/redux-config.php:402 inc/redux-config.php:478
+#: inc/redux-config.php:502 inc/redux-config.php:525 inc/redux-config.php:590
+#: inc/redux-config.php:643 inc/redux-config.php:750
+msgid "For full documentation on this field, visit: "
+msgstr ""
+
+#: inc/redux-config.php:681
+msgid "Full Image"
+msgstr ""
+
+#: inc/redux-config.php:642
+msgid "Gallery"
+msgstr ""
+
+#: inc/redux-config.php:649 inc/redux-config.php:756
+msgid "Gallery items"
+msgstr ""
+
+#: inc/redux-config.php:490 inc/redux-config.php:513 inc/redux-config.php:542
+#: inc/redux-config.php:560 inc/redux-config.php:571 inc/redux-config.php:607
+#: inc/redux-config.php:625
+msgid "Give us a link!"
+msgstr ""
+
+#: inc/redux-config.php:321
+msgid "Global Settings"
+msgstr ""
+
+#: inc/redux-config.php:1013
+msgid "Google URL"
+msgstr ""
+
+#: functions.php:52
+msgid "Header Primary"
+msgstr ""
+
+#: inc/redux-config.php:734
+msgid "Hint"
+msgstr ""
+
+#. Name of the template
+#: inc/redux-config.php:465
+msgid "Home Page"
+msgstr ""
+
+#: template-about.php:203
+msgid "How we"
+msgstr ""
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "http://xplication.com/"
+msgstr ""
+
+#: inc/redux-config.php:782 inc/redux-config.php:925
+msgid "Icon"
+msgstr ""
+
+#: inc/redux-config.php:891
+msgid "Icon List"
+msgstr ""
+
+#: inc/redux-config.php:898
+msgid "Icons items"
+msgstr ""
+
+#: inc/widgets.php:133
+msgid "Id"
+msgstr ""
+
+#. Author of the theme
+msgid "Iftodi Petru"
+msgstr ""
+
+#: inc/redux-config.php:879 inc/redux-config.php:880 inc/redux-config.php:1101
+msgid "Image"
+msgstr ""
+
+#: inc/redux-config.php:995
+msgid "Instagram URL"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/redux-config.php:962
+msgid "John Kardashian"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:83
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/redux-config.php:421
+msgid "Likes image"
+msgstr ""
+
+#: inc/redux-config.php:430
+msgid "Likes text."
+msgstr ""
+
+#: inc/redux-config.php:924
+msgid "linearicons-icon"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/woocommerce-functions.php:466
+msgid "Loading..."
+msgstr ""
+
+#: inc/redux-config.php:385
+msgid "Location Address"
+msgstr ""
+
+#: inc/redux-config.php:411
+msgid "Media w/ URL"
+msgstr ""
+
+#: inc/redux-config.php:500
+msgid "Menu"
+msgstr ""
+
+#: inc/redux-config.php:963 inc/widgets.php:131
+msgid "Name"
+msgstr ""
+
+#: single.php:24
+msgid "Next:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/redux-config.php:1460
+msgid "Opt 1"
+msgstr ""
+
+#: inc/redux-config.php:1461
+msgid "Opt 2"
+msgstr ""
+
+#: inc/redux-config.php:1462
+msgid "Opt 3"
+msgstr ""
+
+#: inc/redux-config.php:1024 inc/redux-config.php:1050
+msgid "Our History"
+msgstr ""
+
+#: inc/redux-config.php:1025
+msgid "Our History."
+msgstr ""
+
+#: inc/redux-config.php:936 inc/redux-config.php:949
+msgid "Our Team"
+msgstr ""
+
+#: inc/redux-config.php:1088 inc/redux-config.php:1106
+msgid "Our Testimonials"
+msgstr ""
+
+#: inc/redux-config.php:1089
+msgid "Our Testimonials."
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content.php:53
+msgid "Pages:"
+msgstr ""
+
+#: 404.php:18
+msgid "Pagina nu a fost găsită"
+msgstr ""
+
+#: inc/widgets.php:134
+msgid "Parent"
+msgstr ""
+
+#: inc/redux-config.php:352
+msgid "Personal Information"
+msgstr ""
+
+#: inc/redux-config.php:976
+msgid "Photo"
+msgstr ""
+
+#. Name of the theme
+msgid "PizzaHouse"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets.php:260
+msgid "Pizzahouse Popular Products"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets.php:166
+msgid "Pizzahouse Price Filter"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets.php:13
+msgid "Pizzahouse Product Filter"
+msgstr ""
+
+#: inc/redux-config.php:733
+msgid "Please keep clean."
+msgstr ""
+
+#: inc/widgets.php:322
+msgid "Popular Products"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:46
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:30
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:66
+msgid "Posted in %1$s"
+msgstr ""
+
+#: single.php:23
+msgid "Previous:"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/redux-config.php:423
+msgid "Recomended size 58x25 px."
+msgstr ""
+
+#: inc/redux-config.php:651 inc/redux-config.php:758 inc/redux-config.php:849
+#: inc/redux-config.php:900 inc/redux-config.php:951 inc/redux-config.php:1052
+#: inc/redux-config.php:1108
+msgid "Repeater"
+msgstr ""
+
+#: inc/redux-config.php:970
+msgid "Role"
+msgstr ""
+
+#. %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/redux-config.php:1570
+msgid "Section via hook"
+msgstr ""
+
+#: inc/redux-config.php:700
+msgid "Select dimension on large Screen."
+msgstr ""
+
+#: inc/redux-config.php:686
+msgid "Select dimension on small Screen."
+msgstr ""
+
+#: inc/redux-config.php:740
+msgid "Shortcode"
+msgstr ""
+
+#: functions.php:127
+msgid "Sidebar"
+msgstr ""
+
+#: inc/redux-config.php:476
+msgid "Slides"
+msgstr ""
+
+#: inc/widgets.php:132
+msgid "Slug"
+msgstr ""
+
+#: template-contact.php:21
+msgid "Social Media"
+msgstr ""
+
+#: inc/redux-config.php:1150
+msgid "Social media"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/redux-config.php:532 inc/redux-config.php:597
+msgid "Suggested dimension 1920x503."
+msgstr ""
+
+#: inc/redux-config.php:231
+msgid "Support"
+msgstr ""
+
+#: inc/redux-config.php:822
+msgid "Tabs"
+msgstr ""
+
+#: inc/redux-config.php:847
+msgid "Tabs items"
+msgstr ""
+
+#: inc/redux-config.php:866
+msgid "Tabs title"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:73
+msgid "Tagged %1$s"
+msgstr ""
+
+#: template-contact.php:30
+msgid "Telefon"
+msgstr ""
+
+#: inc/redux-config.php:793 inc/redux-config.php:800
+msgid "Testimonials"
+msgstr ""
+
+#: inc/redux-config.php:1607
+msgid "Testing filter hook!"
+msgstr ""
+
+#: inc/redux-config.php:667 inc/redux-config.php:774 inc/redux-config.php:872
+#: inc/redux-config.php:917
+msgid "Text Field"
+msgstr ""
+
+#: inc/redux-config.php:1457
+msgid "The field desc is NOT visible in customizer."
+msgstr ""
+
+#: inc/widgets.php:16 inc/widgets.php:169 inc/widgets.php:263
+msgid "The main products filter in the Shop page."
+msgstr ""
+
+#: inc/redux-config.php:1456
+msgid "The subtitle is NOT visible in customizer"
+msgstr ""
+
+#: inc/redux-config.php:293
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/redux-config.php:298
+msgid "Theme Information 2"
+msgstr ""
+
+#: inc/redux-config.php:89 inc/redux-config.php:92
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/redux-config.php:813
+msgid "These are about us settings!"
+msgstr ""
+
+#: inc/redux-config.php:467
+msgid "These are home page settings!"
+msgstr ""
+
+#: inc/redux-config.php:323 inc/redux-config.php:1152
+msgid "These are really basic settings!"
+msgstr ""
+
+#: inc/redux-config.php:486
+msgid ""
+"This field will store all slides values into a multidimensional array to use "
+"into a foreach loop."
+msgstr ""
+
+#: inc/redux-config.php:1571
+msgid ""
+"This is a section created by adding a filter to the sections array. Can be "
+"used by child themes to add/remove sections from the options."
+msgstr ""
+
+#: inc/redux-config.php:488 inc/redux-config.php:511 inc/redux-config.php:540
+#: inc/redux-config.php:605
+msgid "This is a title"
+msgstr ""
+
+#: inc/redux-config.php:305
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: inc/redux-config.php:294 inc/redux-config.php:299
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+#: inc/redux-config.php:1449
+msgid "This Section should be visible only in Customizer"
+msgstr ""
+
+#: inc/redux-config.php:275
+msgid ""
+"This text is displayed above the options panel. It isn't required, but more "
+"info is always better! The intro_text field accepts all HTML."
+msgstr ""
+
+#: inc/redux-config.php:279
+msgid ""
+"This text is displayed below the options panel. It isn't required, but more "
+"info is always better! The footer_text field accepts all HTML."
+msgstr ""
+
+#: inc/redux-config.php:675
+msgid "Thumb Image"
+msgstr ""
+
+#: inc/redux-config.php:508 inc/redux-config.php:537 inc/redux-config.php:602
+#: inc/redux-config.php:661 inc/redux-config.php:662 inc/redux-config.php:728
+#: inc/redux-config.php:768 inc/redux-config.php:769 inc/redux-config.php:801
+#: inc/redux-config.php:860 inc/redux-config.php:861 inc/redux-config.php:867
+#: inc/redux-config.php:911 inc/redux-config.php:912 inc/redux-config.php:943
+#: inc/redux-config.php:944 inc/redux-config.php:1031 inc/redux-config.php:1032
+#: inc/redux-config.php:1070 inc/redux-config.php:1071
+#: inc/redux-config.php:1095 inc/redux-config.php:1096
+msgid "Title"
+msgstr ""
+
+#: template-contact.php:14
+msgid "Trimite-ne un mesaj"
+msgstr ""
+
+#: inc/redux-config.php:1004
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/redux-config.php:509 inc/redux-config.php:538 inc/redux-config.php:549
+#: inc/redux-config.php:556 inc/redux-config.php:567 inc/redux-config.php:578
+#: inc/redux-config.php:603 inc/redux-config.php:614 inc/redux-config.php:621
+#: inc/redux-config.php:632
+msgid "Unlimited items with drag and drop sortings."
+msgstr ""
+
+#: inc/redux-config.php:485
+msgid "Unlimited slides with drag and drop sortings."
+msgstr ""
+
+#: inc/redux-config.php:414 inc/redux-config.php:424
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: inc/redux-config.php:1037
+msgid "Video Image"
+msgstr ""
+
+#: inc/redux-config.php:1042
+msgid "Video Link"
+msgstr ""
+
+#: inc/redux-config.php:569 inc/redux-config.php:623
+msgid "View our services"
+msgstr ""
+
+#: inc/woocommerce-functions.php:140
+msgid "View Product"
+msgstr ""
+
+#: template-contact.php:44
+msgid "Vizitează-ne"
+msgstr ""
+
+#: template-about.php:203
+msgid "Work"
+msgstr ""
+
+#: inc/redux-config.php:432
+msgid "Write for example the number of likes"
+msgstr ""
+
+#: inc/redux-config.php:1063 inc/redux-config.php:1064
+msgid "Year"
+msgstr ""
